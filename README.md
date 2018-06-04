@@ -4,4 +4,4 @@ This map visualizes the results of the 2016 Philippines Presidential Election by
 
 Election results are compliments of [pilipinaselectionresults2016.com](pilipinaselectionresults2016.com).
 
-The full screen interactive map can be viewed [here](http://pages.ucsd.edu/~mwdavids/projects/PEM.html).
+The full screen interactive map can be viewed [here](http://pages.ucsd.edu/~mwdavids/maps/PEM.html).
